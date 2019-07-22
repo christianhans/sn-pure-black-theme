@@ -1,6 +1,6 @@
 {
   "name": "sn-dark",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/dist.css",
   "devDependencies": {
     "grunt": "^1.0.1",
@@ -13,6 +13,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jeromepaulos/sn-dark.git"
+    "url": "git://github.com/christianhans/sn-dark.git"
   }
 }
