@@ -14,7 +14,7 @@ Forked from https://github.com/jeromepaulos/sn-dark.
  3. Paste the URL below into the text box
 
 ```
-https://listed.standardnotes.org/6J0Ubj3CWF
+https://listed.to/G4qnpftLNJ
 ```
 
  4. Press enter
