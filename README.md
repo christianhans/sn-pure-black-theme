@@ -1,6 +1,8 @@
 # Standard Notes Dark Theme
 A simple (and **free**) theme for Standard Notes.
 
+Forked from https://github.com/jeromepaulos/sn-dark.
+
 ## Preview
 
 ![enter image description here](https://raw.githubusercontent.com/jeromepaulos/sn-dark/master/screenshot.png)
