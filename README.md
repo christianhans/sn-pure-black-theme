@@ -1,7 +1,7 @@
 # Standard Notes Dark Theme
-A simple (and **free**) theme for Standard Notes.
+A pure black theme for Standard Notes.
 
-Forked from https://github.com/jeromepaulos/sn-dark.
+Optimized for OLED devices such as iPhone X.
 
 ## Preview
 
