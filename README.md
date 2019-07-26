@@ -1,4 +1,4 @@
-# Standard Notes Dark Theme
+# Standard Notes Pure Black Theme
 A pure black theme for Standard Notes.
 
 Optimized for OLED devices such as iPhone X.
