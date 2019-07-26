@@ -5,7 +5,7 @@ Optimized for OLED devices such as iPhone X.
 
 ## Preview
 
-![enter image description here](https://raw.githubusercontent.com/jeromepaulos/sn-dark/master/screenshot.png)
+TODO
 
 ## Installation
 
