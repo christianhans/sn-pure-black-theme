@@ -1,6 +1,6 @@
 # Pure Black Theme for Standard Notes
 
-Optimized for OLED devices such as iPhone X.
+Theme for [Standard Notes](https://standardnotes.org/). Optimized for OLED devices such as iPhone X.
 
 ## Installation
 
