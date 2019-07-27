@@ -5,7 +5,7 @@ Optimized for OLED devices such as iPhone X.
 
 ## Preview
 
-<img src="https://raw.githubusercontent.com/christianhans/sn-pure-black-theme/master/preview1.png"width="300px">  <img src="https://raw.githubusercontent.com/christianhans/sn-pure-black-theme/master/preview2.png" width="300px">
+<img src="https://raw.githubusercontent.com/christianhans/sn-pure-black-theme/master/preview1.png" width="300px">  <img src="https://raw.githubusercontent.com/christianhans/sn-pure-black-theme/master/preview2.png" width="300px">
 
 
 ## Installation
