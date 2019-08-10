@@ -13,12 +13,5 @@ metatype: json
   "download_url": "https://github.com/christianhans/sn-pure-black-theme/archive/1.0.6.zip",
   "latest_url": "https://listed.to/G4qnpftLNJ",
   "marketing_url": "https://github.com/christianhans/sn-pure-black-theme",
-  "thumbnail_url": "https://raw.githubusercontent.com/christianhans/sn-pure-black-theme/master/thumbnail.jpg",
-    "dock_icon": {
-      "type": "circle",
-      "background_color": "#000000",
-      "foreground_color": "#086DD6",
-      "border_color": "#086DD6"
-    },
-    "statusBar": "dark-content"
+  "thumbnail_url": "https://raw.githubusercontent.com/christianhans/sn-pure-black-theme/master/thumbnail.jpg"
 }
