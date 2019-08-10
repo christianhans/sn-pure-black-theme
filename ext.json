@@ -1,0 +1,24 @@
+---
+metatype: json
+---
+
+{
+  "identifier": "io.github.christianhans.sn-pure-black-theme",
+  "name": "Pure Black",
+  "content_type": "SN|Theme",
+  "area": "themes",
+  "version": "1.0.6",
+  "description": "Pure black theme for Standard Notes.",
+  "url": "https://cdn.jsdelivr.net/gh/christianhans/sn-pure-black-theme@1.0.6/dist/dist.css",
+  "download_url": "https://github.com/christianhans/sn-pure-black-theme/archive/1.0.6.zip",
+  "latest_url": "https://listed.to/G4qnpftLNJ",
+  "marketing_url": "https://github.com/christianhans/sn-pure-black-theme",
+  "thumbnail_url": "https://raw.githubusercontent.com/christianhans/sn-pure-black-theme/master/thumbnail.jpg",
+    "dock_icon": {
+      "type": "circle",
+      "background_color": "#000000",
+      "foreground_color": "#086DD6",
+      "border_color": "#086DD6"
+    },
+    "statusBar": "dark-content"
+}
