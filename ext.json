@@ -7,10 +7,10 @@ metatype: json
   "name": "Pure Black",
   "content_type": "SN|Theme",
   "area": "themes",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Pure black theme for Standard Notes.",
-  "url": "https://cdn.jsdelivr.net/gh/christianhans/sn-pure-black-theme@1.0.6/dist/dist.css",
-  "download_url": "https://github.com/christianhans/sn-pure-black-theme/archive/1.0.6.zip",
+  "url": "https://cdn.jsdelivr.net/gh/christianhans/sn-pure-black-theme@1.0.7/dist/dist.css",
+  "download_url": "https://github.com/christianhans/sn-pure-black-theme/archive/1.0.7.zip",
   "latest_url": "https://listed.to/G4qnpftLNJ",
   "marketing_url": "https://github.com/christianhans/sn-pure-black-theme"
 }
