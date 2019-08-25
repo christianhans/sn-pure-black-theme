@@ -1,6 +1,6 @@
 {
   "name": "sn-pure-black-theme",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "main": "dist/dist.css",
   "devDependencies": {
     "grunt": "^1.0.1",
