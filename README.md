@@ -7,7 +7,7 @@ Theme for [Standard Notes](https://standardnotes.org/). Optimized for OLED devic
 Open "Extensions" in Standard Notes and click "Import Extension". Enter the following URL as Extension Link and press Enter:
 
 ```
-https://listed.to/G4qnpftLNJ
+https://listed.to/p/6ezPEoojGG
 ```
 
 ## Preview
