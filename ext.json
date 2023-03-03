@@ -3,14 +3,20 @@ metatype: json
 ---
 
 {
-  "identifier": "io.github.christianhans.sn-pure-black-theme",
+  "identifier": "io.github.andryou.sn-pure-black-theme",
   "name": "Pure Black",
   "content_type": "SN|Theme",
   "area": "themes",
-  "version": "1.0.10",
-  "description": "Pure black theme for Standard Notes.",
-  "url": "https://cdn.jsdelivr.net/gh/christianhans/sn-pure-black-theme@1.0.10/dist/dist.css",
-  "download_url": "https://github.com/christianhans/sn-pure-black-theme/archive/1.0.10.zip",
-  "latest_url": "https://listed.to/p/6ezPEoojGG",
-  "marketing_url": "https://github.com/christianhans/sn-pure-black-theme"
+  "version": "1.0.11",
+  "description": "Pure black theme for Standard Notes. Fork of https://github.com/christianhans/sn-pure-black-theme",
+  "url": "https://cdn.jsdelivr.net/gh/andryou/sn-pure-black-theme@1.0.11/dist/dist.css",
+  "download_url": "https://github.com/andryou/sn-pure-black-theme/archive/1.0.11.zip",
+  "latest_url": "https://listed.to/p/OKLNXDrC2o",
+  "marketing_url": "https://github.com/andryou/sn-pure-black-theme",
+  "dock_icon": {
+     "type": "circle",
+     "background_color": "#0C84FE",
+     "foreground_color": "#0C84FE",
+     "border_color": "#0C84FE"
+  }
 }
